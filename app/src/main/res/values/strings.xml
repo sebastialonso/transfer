@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Transfer</string>
+    <string name="label_banks">Banco</string>
+    <string name="label_account_number">N° de cuenta</string>
+    <string name="label_account_type">Tipo de cuenta</string>
+    <string name="label_account_owner_name">Dueño de la cuenta</string>
+    <string name="label_account_owner_rut">Rut del dueño</string>
+    <string-array name="banks_options">
+        <item>Santander</item>
+        <item>Banco de Chile/Edwards</item>
+        <item>Banco Estado</item>
+        <item>RaboBank</item>
+    </string-array>
+    <string-array name="account_types">
+        <item>Cuenta Corriente</item>
+        <item>Cuenta Vista</item>
+        <item>Cuenta de Ahorros</item>
+    </string-array>
+</resources>
